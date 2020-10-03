@@ -1,2 +1,2 @@
-# class-21
-creating library function
+# collisionAlgorithm
+Algorithm to detect collision between two objects
